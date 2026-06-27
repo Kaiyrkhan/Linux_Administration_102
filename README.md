@@ -1,21 +1,22 @@
 # Linux Administration II
 
 ### Course Contents
-  1) DHCP
-  2) NTP
-  3) DNS
-  4) Web (Nginx, Apache)
-  5) FTP
-  6) TFTP
-  7) RADIUS
-  8) TACACS+
-  9) LDAP (Centralized Authentication and Authorization)
-  10) Squid
-  11) Samba
-  12) NFS
-  13) Monitoring System (LibreNMS, Icinga, Zabbix)
-  14) Centralized Logging System (syslog-ng and rsyslog + Graylog)
-  15) Ansible
+  1) Cisco-Based Enterprise Network Design and Implementation
+  2) DHCP
+  3) NTP
+  4) DNS
+  5) Web (Nginx, Apache)
+  6) FTP
+  7) TFTP
+  8) RADIUS
+  9) TACACS+
+  10) LDAP (Centralized Authentication and Authorization)
+  11) Squid
+  12) Samba
+  13) NFS
+  14) Monitoring System (LibreNMS, Icinga, Zabbix)
+  15) Centralized Logging System (syslog-ng and rsyslog + Graylog)
+  16) Network Automation (Ansible, Python)
 
 ### References
 
